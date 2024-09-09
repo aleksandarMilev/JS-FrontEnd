@@ -1,1 +1,1 @@
-# JS-FrontEnd
+The JavaScript course covers a range of topics from fundamental to advanced JavaScript programming. It begins with the basics of JavaScript syntax and progresses through arrays, strings, functions, and statements. The course then explores objects and classes, followed by an in-depth look at the Document Object Model (DOM), including DOM manipulation, events, and asynchronous programming with HTTP and AJAX. Additionally, I have researched and learned about prototypes, inheritance, and class usage independently.
